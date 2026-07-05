@@ -1,0 +1,6 @@
+{
+  "name": "N5 Hiragana Academy",
+  "description": "A premium personal Japanese Hiragana handwriting trainer optimized for laptop trackpads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
